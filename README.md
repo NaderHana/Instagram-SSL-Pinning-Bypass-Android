@@ -5,7 +5,7 @@ Latest version: Version **395.0.0.8.165**
 
 Contact me for the latest version. Always active and up-to-date SSL pinning bypass service.
 
-IF You need another app ssl pinning bypass android you cam contact me.
+IF You need another app ssl pinning bypass android you can contact me.
 
 contact instagram: **@hotnaderr** 
 contact telegram: **@NaderKitOfficial**
