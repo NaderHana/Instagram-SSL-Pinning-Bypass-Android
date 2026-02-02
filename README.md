@@ -9,5 +9,4 @@ IF You need another app ssl pinning bypass android you can contact me.
 https://t.me/NaderKitt
 contact telegram: **@NaderKitOfficial**
 contact discord: **@naderlow999**
-
-<img width="1857" height="914" alt="imgs" src="https://raw.githubusercontent.com/NaderHana/Instagram-SSL-Pinning-Bypass-Android/refs/heads/main/Instagram_SSL_Pinning_Bypass401.png" />
+\
