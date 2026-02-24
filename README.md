@@ -1,4 +1,4 @@
-<img width="1911" height="1005" alt="Instagram-SSL-Pinning-Bypass-Android-415 0 0 0 43" src="https://github.com/user-attachments/assets/b4ecaeb5-442d-4742-b0f8-66ccd9387c12" /># Instagram-SSL-Pinning-Bypass-Android-418.0.0.0.71
+<img width="1911" height="1005" alt="Instagram-SSL-Pinning-Bypass-Android-415 0 0 0 43" src=["https://github.com/user-attachments/assets/b4ecaeb5-442d-4742-b0f8-66ccd9387c12"] /># Instagram-SSL-Pinning-Bypass-Android-418.0.0.0.71
 Bypassed Meta Certificate Verifier
 Instagram SSL pinning Bypass on Android devices. Latest version bypassed Instagram Version **418.0.0.0.71** 
 
