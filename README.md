@@ -6,10 +6,9 @@ Latest version: Version **418.0.0.0.71** !!!!!!!!!!
 Contact me for the latest version. Always active and up-to-date SSL pinning bypass service.
 I Accept Middle Man - i got Vouches
 IF You need another app ssl pinning bypass android you can contact me.
+✅ Currently available for website development and custom software tools/solutions
 
-
+Contact: 
 https://t.me/NaderKitt
-
 contact telegram: **@NaderKitOfficial**
-
 contact discord: **@NaderKitOfficial**
