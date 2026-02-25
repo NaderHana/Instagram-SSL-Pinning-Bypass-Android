@@ -8,4 +8,4 @@ I Accept Middle Man - i got Vouches
 IF You need another app ssl pinning bypass android you can contact me.
 https://t.me/NaderKitt
 contact telegram: **@NaderKitOfficial**
-contact discord: **@naderlow999**
+contact discord: **@NaderKitOfficial**
