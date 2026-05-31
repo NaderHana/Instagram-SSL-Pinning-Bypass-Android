@@ -10,4 +10,4 @@ IF You need another app ssl pinning bypass android you can contact me.
 
 Contact: 
 https://t.me/NaderKitt
-contact telegram: **@NaderKit**
+contact telegram: **@naderlow999*
